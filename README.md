@@ -1,5 +1,5 @@
 # programming-essentials
-A repo for helpful guides, example code, and structure to improve programming knowledge breadth and understanding
+A repo for helpful guides, example code, and structure to improve programming breadth of knowledge and understanding
 
 ### Helpful Websites
 
