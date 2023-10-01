@@ -12,6 +12,7 @@ Marsh's Quick Refs: https://gitlab.cs.umd.edu/mmarsh/quick-refs
 MPI:
 - Documentation: https://www.open-mpi.org/doc/v4.0/
 - MPI_Datatypes: https://rookiehpc.org/mpi/docs/mpi_datatype/index.html
+- MPI Tutorial https://mpitutorial.com/tutorials/
 - Zaratan HPC Primer: https://www.cs.umd.edu/class/fall2023/cmsc416/zaratan.shtml
 
 ### Programming Languages
