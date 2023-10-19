@@ -20,6 +20,7 @@ MPI:
 HPC Performance Analysis
 - HPCToolkit User Manual: http://www.hpctoolkit.org/manual/HPCToolkit-users-manual.pdf
 - Hatchet User Guide: https://hatchet.readthedocs.io/en/latest/user_guide.html
+- GNU gprof User Guide: https://ftp.gnu.org/old-gnu/Manuals/gprof-2.9.1/html_mono/gprof.html#SEC6
 
 ### Programming Languages
 
