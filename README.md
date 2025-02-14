@@ -5,6 +5,8 @@ A repo for helpful guides, example code, and structure to improve programming br
 
 Makefiles (C/C++): https://makefiletutorial.com/
 
+Learn C++: https://www.learncpp.com/
+
 Shell Commands, Scripting, etc: https://missing.csail.mit.edu/
 
 Marsh's Quick Refs: https://gitlab.cs.umd.edu/mmarsh/quick-refs
